@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-red-600 to-orange-500 text-white flex flex-col items-center px-4 py-10 relative">
       {/* Logo */}
-      <img src="public/logo.png" alt="Logo" className="w-60 mb-6" />
+      <img src="public/Logo.png" alt="Logo" className="w-60 mb-6" />
 
       {/* Judul */}
       <h1 className="text-4xl md:text-6xl font-extrabold text-center mb-12 leading-tight">
